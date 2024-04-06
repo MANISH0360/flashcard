@@ -135,7 +135,7 @@ The Almabetter Flashcard Capstone Project is a frontend-focused endeavor designe
 1. Clone the flashcard-generator repository:
 
 ```sh
-git clone https://github.com/gagandeepsingh101/flashcard-generator
+https://github.com/MANISH0360/flashcard.git
 ```
 
 2. Change to the project directory:
@@ -164,13 +164,6 @@ npm test
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/gagandeepsingh101/flashcard-generator/pulls)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/gagandeepsingh101/flashcard-generator/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/gagandeepsingh101/flashcard-generator/issues)**: Submit bugs found or log feature requests for GAGANDEEPSINGH101.
 
 #### _Contributing Guidelines_
 
